@@ -4,20 +4,21 @@ I am Seth Frazer, an evolutionary and computational biologist. I completed my Un
 
 My work primarily sits at the intersection of evolutionary biology, sequence analysis, and machine learning, with a heavy focus on opsin phenotype prediction.
 
-**What I'm Working On**
+### **My Work**
 
-Much of my open-source work has centered around the **VisualPhysiologyDB (VPOD)**, where I authored tools to predict and analyze opsin phenotypes from genomic data. Here are my featured repositories:
+Much of my open-source work has centered around the **VisualPhysiologyDB (VPOD)**, where I authored tools to predict and analyze opsin phenotypes from genomic data. 
+Here are my featured repositories (all of which are still 'live' and updates will be on-going):
 
-- **optics****:** An open-source Python tool that predicts the Opsin Phenotype (lambda max) from unaligned opsin amino-acid sequences.
+- **optics:** An open-source Python tool that predicts the Opsin Phenotype (lambda max) from unaligned opsin amino-acid sequences.
 
-- **visual-physiology-opsin-db****:** A database of opsin genotype-phenotype data and machine-learning models trained to predict opsin phenotypes.
+- **visual-physiology-opsin-db:** A database of opsin genotype-phenotype data and machine-learning models trained to predict opsin phenotypes.
 
-- **mine_n_match****:** Python functions designed to mine and process sequence data directly from National Center for Biotechnology Information (NCBI) databases.
+- **mine_n_match**: Python functions designed to mine and process sequence data directly from National Center for Biotechnology Information (NCBI) databases.
 
-- **mutagenesis_tools****:** A repository for mutagenesis scripts, featuring a streamlined set of scripts for site-directed mutagenesis, chimera construction, and deep-mutational scanning.
+- **mutagenesis_tools**: A repository for mutagenesis scripts, featuring a streamlined set of scripts for site-directed mutagenesis, chimera construction, and deep-mutational scanning.
 
 
-**Tech Stack & Tools**
+### **Tech Stack & Tools**
 
 - **Languages:** Python, R, HTML
 
